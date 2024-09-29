@@ -21,5 +21,5 @@ URC
 
 <h2><ul></ul>Project Description<ul></h2>
 <li> This is my project that i use for the "Autonomous Vehicle" Competition </li>
-<li>- Samplev5: The vehicle can detect the lane using given segment of lanes function, from the both edges of lanes to find the center of the lane. I'm applying the P.I.D Control Algorithm to calculate the angle and adjust the speed of the vehicle</li>
-<li>Updating..</li>
+<li> Samplev5: The vehicle can detect the lane using given segment of lanes function, from the both edges of lanes to find the center of the lane. I'm applying the P.I.D Control Algorithm to calculate the angle and adjust the speed of the vehicle</li>
+<li> Updating..</li>
