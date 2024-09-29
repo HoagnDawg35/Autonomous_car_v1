@@ -13,14 +13,13 @@ URC
 <p align="left">
 <a href="https://fb.com/Hoang.huy012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="đặng huy hoàng (quàngg)" height="30" width="40" /></a>
 </p>
-<h2> Table of Contents: </h2> 
-- Project Description
-- Feature
-- Operation
-- VSC's Extensions
+<ul>Table of Contents</ul> 
+  <li>- Project Description</li>
+  <li>- Feature</li>
+  <li>- Operation</li>
+  <li>- VSC's Extensions</li>
 
 <h2> Project Description:</h2>
-- This is my project that i use for the "Autonomous Vehicle" Competition
+<p>- This is my project that i use for the "Autonomous Vehicle" Competition
 - Samplev5: The vehicle can detect the lane using given segment of lanes function, from the both edges of lanes to find the center of the lane. I'm applying the P.I.D Control Algorithm to calculate the angle and adjust the speed of the vehicle
-- *Updating...* 
-
+- *Updating...* </p>
