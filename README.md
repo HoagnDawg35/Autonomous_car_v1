@@ -13,11 +13,11 @@ URC
 <p align="left">
 <a href="https://fb.com/Hoang.huy012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="đặng huy hoàng (quàngg)" height="30" width="40" /></a>
 </p>
-<ul>Table of Contents</ul> 
-  <li>- Project Description</li>
-  <li>- Feature</li>
-  <li>- Operation</li>
-  <li>- VSC's Extensions</li>
+<h2><ul>Table of Contents</ul></h2>
+  <li> Project Description</li>
+  <li> Feature</li>
+  <li> Operation</li>
+  <li> VSC's Extensions</li>
 
 <h2> Project Description:</h2>
 <p>- This is my project that i use for the "Autonomous Vehicle" Competition
