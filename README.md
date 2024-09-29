@@ -14,10 +14,10 @@ URC
 <a href="https://fb.com/Hoang.huy012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="đặng huy hoàng (quàngg)" height="30" width="40" /></a>
 </p>
 ## Table of Contents
-- [Description](Project Description)
-- [Feature](Feature)
-- [Operation](Operation)
-- [Extension](Useful VSC's Extensions)
+- Project Description
+- Feature
+- Operation
+- VSC's Extensions
 
 ###Project Description:
 - This is my project that i use for the "Autonomous Vehicle" Competition
